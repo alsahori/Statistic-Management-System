@@ -1,0 +1,11 @@
+1 elsa royalty 20 10 4 3 200
+2 ana royalty 19 10 2 1 150
+3 jasmin royalty 23 10 5 1 180
+4 rapunzel royalty 20 10 1 2 350
+5 moana  royalty 25 10 1 4 160
+
+6 noah legends 25 10 6 4 520
+7 joe legends 24 10 7 2 300
+8 bob legends 26 10 5 3 200
+9 joseph legends 20 10 5 7 376
+10 sam legends 23 10 4 7 290
